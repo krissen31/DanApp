@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DanApp", "DanApp\DanApp.csproj", "{F56ADD47-8BB0-4FCA-9730-344809BFF005}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DanAppDB", "DanAppDB\DanAppDB.sqlproj", "{4F98B2E4-8439-4C56-910A-A3EB202A1103}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{F56ADD47-8BB0-4FCA-9730-344809BFF005}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F56ADD47-8BB0-4FCA-9730-344809BFF005}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F56ADD47-8BB0-4FCA-9730-344809BFF005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F98B2E4-8439-4C56-910A-A3EB202A1103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F98B2E4-8439-4C56-910A-A3EB202A1103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F98B2E4-8439-4C56-910A-A3EB202A1103}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4F98B2E4-8439-4C56-910A-A3EB202A1103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F98B2E4-8439-4C56-910A-A3EB202A1103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F98B2E4-8439-4C56-910A-A3EB202A1103}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
